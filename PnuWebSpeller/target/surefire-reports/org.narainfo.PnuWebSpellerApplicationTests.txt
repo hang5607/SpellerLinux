@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.narainfo.PnuWebSpellerApplicationTests
+-------------------------------------------------------------------------------
+<<<<<<< HEAD
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.119 s - in org.narainfo.PnuWebSpellerApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.896 s - in org.narainfo.PnuWebSpellerApplicationTests
+>>>>>>> faf3283c0d40e9f8335faf5956c4d60003855fe2

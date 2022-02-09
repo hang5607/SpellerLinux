@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\GetIP.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\controller\XmlController.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\WordCntCheck.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\FilterIP.java
+=======
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\WordCntCheck.java
+>>>>>>> faf3283c0d40e9f8335faf5956c4d60003855fe2
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\parse\XmlParse.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\Page.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\controller\ResultController.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\SpellerData.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\ErrInfo.java
+<<<<<<< HEAD
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\ReplaceData.java
+=======
+>>>>>>> faf3283c0d40e9f8335faf5956c4d60003855fe2
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\ServletInitializer.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\controller\HomeController.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\Data.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\controller\SpellerController.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\PnuWebSpellerApplication.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\SendMail.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\mapper\SpellerMapper.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\dto\ReportData.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\controller\InsertController.java
+C:\dev\eclipse-workspace\PnuWebSpeller\src\main\java\org\narainfo\WebSpeller.java

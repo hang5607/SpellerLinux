@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PnuWebSpeller
+Implementation-Version: 2.0.8.RELEASE
+Built-By: nara111
+Implementation-Vendor-Id: org.narainfo
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PnuWebSpeller
+Created-By: Maven Integration for Eclipse
+

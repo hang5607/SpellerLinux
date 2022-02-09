@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="org.narainfo.mapper.SpellerMapper">
+	
+   <insert id="insertUserReplace" parameterType="org.narainfo.dto.SpellerData" useGeneratedKeys="true"
+    keyProperty="idx">
+        insert into userreplacelist(errWord,replaceWord,sentence,regdate)
+            values
+        (#{errorWord},#{replaceWord},#{sentence},now())
+    </insert>
+
+   <insert id="insertNoChange" parameterType="org.narainfo.dto.SpellerData" useGeneratedKeys="true"
+    keyProperty="idx">
+        insert into nochangelist(errWord,replaceWord,sentence,regdate)
+            values
+        (#{errorWord},#{replaceWord},#{sentence},now())
+    </insert>
+    
+   <insert id="insertBugreport" parameterType="org.narainfo.dto.ReportData" useGeneratedKeys="true"
+    keyProperty="idx">
+        insert into bugreport (strTitle, inputStr, errorWord, replaceWord, comment,reportTime)
+            values
+        (#{strTitle},#{inputStr},#{errorWord},#{replaceWord},#{comment},now())
+    </insert>
+</mapper>
